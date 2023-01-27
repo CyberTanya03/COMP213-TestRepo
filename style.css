@@ -1,7 +1,7 @@
 .box {
     display: flex;
     flex-direction: column;   
-    width: 40%;
+    width: 45%;
     margin: auto;          
 }
 .item {
