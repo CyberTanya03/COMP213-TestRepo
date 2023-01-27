@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    flex-direction: column;   
+    width: 40%;
+    margin: auto;          
+}
+.item {
+    background-color: aqua;
+    border: 1px solid blue;
+    padding-bottom: 7%;
+    margin: 2px;
+}
